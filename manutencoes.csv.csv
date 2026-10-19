@@ -1,0 +1,61 @@
+﻿id_os;data;id_equipamento;tipo_manutencao;falha;componente;horas_parado;custo_reais;status_os;tipo_equipamento_aux;pool_equipamentos
+OS001;15/01/2026;EQ008;Corretiva;Superaquecimento;Rolamento;8;R$ 2.503,00;Finalizada;;EQ001
+OS002;09/01/2026;EQ013;Corretiva;Vibração elevada;Acoplamento;7;R$ 1.842,00;Finalizada;;EQ002
+OS003;23/01/2026;EQ015;Corretiva;Vibração elevada;Rolamento;3;R$ 1.560,00;Finalizada;;EQ003
+OS004;01/01/2026;EQ005;Preventiva;Desgaste;Selo mecânico;3;R$ 493,00;Finalizada;;EQ004
+OS005;09/01/2026;EQ008;Corretiva;Superaquecimento;Rolamento;3;R$ 1.731,00;Finalizada;;EQ005
+OS006;14/01/2026;EQ009;Corretiva;Superaquecimento;Rolamento;9;R$ 1.810,00;Finalizada;Compressor;EQ006
+OS007;07/01/2026;EQ008;Corretiva;Superaquecimento;Rolamento;7;R$ 1.379,00;Finalizada;Compressor;EQ007
+OS008;07/01/2026;EQ003;Preventiva;Folga/ajuste;Acoplamento;2;R$ 944,00;Finalizada;Motor;EQ008
+OS009;01/01/2026;EQ012;Corretiva;Falha de acionamento;Correia;3;R$ 440,00;Finalizada;Esteira;EQ008
+OS010;24/01/2026;EQ015;Preventiva;Desgaste;Rolamento;4;R$ 1.342,00;Finalizada;Máquina;EQ008
+OS011;03/01/2026;EQ006;Preventiva;Folga/ajuste;Acoplamento;2;R$ 676,00;Finalizada;Bomba;EQ008
+OS012;17/01/2026;EQ013;Corretiva;Vibração elevada;Acoplamento;5;R$ 1.146,00;Finalizada;Redutor;EQ009
+OS013;19/01/2026;EQ011;Preventiva;Desgaste;Rolamento;3;R$ 910,00;Finalizada;Esteira;EQ010
+OS014;19/01/2026;EQ010;Corretiva;Falha de acionamento;Correia;3;R$ 565,00;Aberta;Esteira;EQ011
+OS015;17/01/2026;EQ007;Corretiva;Vazamento;Selo mecânico;3;R$ 779,00;Finalizada;Bomba;EQ012
+OS016;12/01/2026;EQ017;Corretiva;Vibração elevada;Acoplamento;8;R$ 1.505,00;Finalizada;Ventilador;EQ013
+OS017;14/01/2026;EQ018;Preventiva;Desgaste;Rolamento;3;R$ 1.004,00;Finalizada;Ventilador;EQ013
+OS018;25/01/2026;EQ019;Preventiva;Folga/ajuste;Acoplamento;2;R$ 672,00;Finalizada;Painel;EQ013
+OS019;10/01/2026;EQ014;Preventiva;Folga/ajuste;Acoplamento;3;R$ 732,00;Finalizada;Redutor;EQ013
+OS020;12/01/2026;EQ012;Preventiva;Desgaste;Rolamento;1;R$ 743,00;Finalizada;Esteira;EQ014
+OS021;06/01/2026;EQ008;Corretiva;Superaquecimento;Rolamento;9;R$ 1.661,00;Finalizada;Compressor;EQ015
+OS022;23/01/2026;EQ008;Corretiva;Superaquecimento;Rolamento;5;R$ 1.238,00;Finalizada;Compressor;EQ015
+OS023;02/01/2026;EQ016;Preventiva;Desgaste;Rolamento;1;R$ 962,00;Finalizada;Máquina;EQ015
+OS024;09/01/2026;EQ008;Corretiva;Superaquecimento;Rolamento;5;R$ 1.477,00;Finalizada;Compressor;EQ015
+OS025;04/01/2026;EQ012;Corretiva;Falha de acionamento;Correia;7;R$ 713,00;Finalizada;Esteira;EQ016
+OS026;11/01/2026;EQ013;Corretiva;Vibração elevada;Acoplamento;6;R$ 1.368,00;Finalizada;Redutor;EQ017
+OS027;07/01/2026;EQ009;Preventiva;Folga/ajuste;Acoplamento;3;R$ 960,00;Finalizada;Compressor;EQ018
+OS028;03/01/2026;EQ003;Preventiva;Desgaste;Rolamento;3;R$ 1.104,00;Finalizada;Motor;EQ019
+OS029;13/01/2026;EQ001;Preventiva;Desgaste;Rolamento;1;R$ 652,00;Finalizada;Motor;EQ020
+OS030;19/01/2026;EQ009;Preventiva;Desgaste;Rolamento;3;R$ 1.127,00;Finalizada;Compressor;
+OS031;06/01/2026;EQ015;Corretiva;Falha mecânica;Rolamento;9;R$ 1.592,00;Finalizada;Máquina;
+OS032;13/01/2026;EQ011;Preventiva;Desgaste;Rolamento;2;R$ 1.030,00;Aberta;Esteira;
+OS033;21/01/2026;EQ013;Corretiva;Vibração elevada;Acoplamento;6;R$ 1.239,00;Finalizada;Redutor;
+OS034;21/01/2026;EQ013;Corretiva;Vibração elevada;Acoplamento;4;R$ 809,00;Finalizada;Redutor;
+OS035;04/01/2026;EQ014;Preventiva;Desgaste;Rolamento;3;R$ 1.060,00;Finalizada;Redutor;
+OS036;04/01/2026;EQ004;Preventiva;Desgaste;Rolamento;4;R$ 1.367,00;Finalizada;Motor;
+OS037;02/01/2026;EQ012;Preventiva;Folga/ajuste;Acoplamento;2;R$ 995,00;Finalizada;Esteira;
+OS038;02/01/2026;EQ001;Corretiva;Superaquecimento;Rolamento;5;R$ 1.227,00;Finalizada;Motor;
+OS039;19/01/2026;EQ005;Preventiva;Folga/ajuste;Acoplamento;1;R$ 841,00;Finalizada;Bomba;
+OS040;03/01/2026;EQ001;Preventiva;Desgaste;Rolamento;3;R$ 1.030,00;Finalizada;Motor;
+OS041;24/01/2026;EQ006;Preventiva;Desgaste;Rolamento;2;R$ 1.055,00;Finalizada;Bomba;
+OS042;03/01/2026;EQ008;Corretiva;Superaquecimento;Rolamento;9;R$ 1.763,00;Finalizada;Compressor;
+OS043;18/01/2026;EQ002;Preventiva;Folga/ajuste;Acoplamento;1;R$ 818,00;Finalizada;Motor;
+OS044;16/01/2026;EQ008;Corretiva;Superaquecimento;Rolamento;8;R$ 1.579,00;Finalizada;Compressor;
+OS045;24/01/2026;EQ013;Corretiva;Vibração elevada;Acoplamento;5;R$ 942,00;Finalizada;Redutor;
+OS046;14/01/2026;EQ008;Corretiva;Superaquecimento;Rolamento;5;R$ 1.489,00;Finalizada;Compressor;
+OS047;21/01/2026;EQ009;Preventiva;Desgaste;Rolamento;1;R$ 675,00;Finalizada;Compressor;
+OS048;02/01/2026;EQ012;Corretiva;Falha de acionamento;Correia;3;R$ 494,00;Finalizada;Esteira;
+OS049;04/01/2026;EQ008;Corretiva;Superaquecimento;Rolamento;7;R$ 1.574,00;Finalizada;Compressor;
+OS050;16/01/2026;EQ012;Corretiva;Falha de acionamento;Correia;5;R$ 578,00;Finalizada;Esteira;
+OS051;01/01/2026;EQ003;Corretiva;Superaquecimento;Rolamento;5;R$ 1.477,00;Finalizada;Motor;
+OS052;19/01/2026;EQ015;Corretiva;Falha mecânica;Rolamento;6;R$ 1.263,00;Finalizada;Máquina;
+OS053;10/01/2026;EQ012;Corretiva;Falha de acionamento;Correia;7;R$ 903,00;Finalizada;Esteira;
+OS054;17/01/2026;EQ009;Preventiva;Desgaste;Rolamento;3;R$ 869,00;Finalizada;Compressor;
+OS055;10/01/2026;EQ015;Preventiva;Desgaste;Rolamento;3;R$ 900,00;Finalizada;Máquina;
+OS056;09/01/2026;EQ007;Preventiva;Desgaste;Rolamento;4;R$ 1.250,00;Finalizada;Bomba;
+OS057;19/01/2026;EQ013;Preventiva;Folga/ajuste;Acoplamento;1;R$ 717,00;Finalizada;Redutor;
+OS058;18/01/2026;EQ008;Preventiva;Folga/ajuste;Acoplamento;1;R$ 699,00;Finalizada;Compressor;
+OS059;19/01/2026;EQ003;Preventiva;Desgaste;Rolamento;1;R$ 884,00;Finalizada;Motor;
+OS060;12/01/2026;EQ003;Preventiva;Desgaste;Rolamento;1;R$ 657,00;Finalizada;Motor;
