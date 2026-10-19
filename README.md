@@ -70,13 +70,19 @@ Score =
 
 O score é utilizado para gerar um ranking dos ativos que demandam maior atenção.
 Dashboard
-visao_geral.png
+### Visão Geral
+
+![Visão Geral](visao_geral.png)
 
 A página apresenta KPIs operacionais, filtros interativos e os principais indicadores de manutenção.
-detalhamento.png
+### Detalhamento
+
+![Detalhamento](detalhamento.png)
 
 Permite analisar individualmente os equipamentos, incluindo criticidade, prioridade, eventos críticos, corretivas, horas paradas e custos.
-insights_ia.png
+### Insights e Recomendações com IA
+
+![Insights e Recomendações](insights_ia.png)
 
 A página utiliza os insights gerados por um LLM executado localmente para apresentar:
 - equipamento mais prioritário;
