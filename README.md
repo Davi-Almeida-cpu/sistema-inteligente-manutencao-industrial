@@ -100,6 +100,11 @@ A página utiliza insights gerados por um LLM executado localmente para apresent
 - recomendações de manutenção;
 - dados adicionais recomendados.
 
+## Demonstração do Dashboard
+
+O dashboard foi desenvolvido com filtros interativos e gráficos dinâmicos.
+
+▶️ [Assistir à demonstração do dashboard](demo_dashboard_manutencao_720p.mp4)
 ## Pipeline em Python
 
 O projeto possui scripts responsáveis por diferentes etapas:
