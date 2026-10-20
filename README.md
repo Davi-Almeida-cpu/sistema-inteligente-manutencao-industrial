@@ -104,8 +104,7 @@ A página utiliza insights gerados por um LLM executado localmente para apresent
 
 O dashboard foi desenvolvido com filtros interativos e gráficos dinâmicos.
 
-▶️ [Assistir à demonstração do dashboard](demo_dashboard_manutencao_720p.mp4)
-## Pipeline em Python
+▶️ [Assistir à demonstração interativa do dashboard](https://github.com/user-attachments/assets/5a4cf02b-afab-4300-bb83-0d82f87c12c8)
 
 O projeto possui scripts responsáveis por diferentes etapas:
 
